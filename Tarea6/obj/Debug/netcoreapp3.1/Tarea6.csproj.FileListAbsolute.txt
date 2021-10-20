@@ -1,0 +1,16 @@
+C:\Users\denia\source\repos\Tarea6\Tarea6\bin\Debug\netcoreapp3.1\Tarea6.exe
+C:\Users\denia\source\repos\Tarea6\Tarea6\bin\Debug\netcoreapp3.1\Tarea6.deps.json
+C:\Users\denia\source\repos\Tarea6\Tarea6\bin\Debug\netcoreapp3.1\Tarea6.runtimeconfig.json
+C:\Users\denia\source\repos\Tarea6\Tarea6\bin\Debug\netcoreapp3.1\Tarea6.runtimeconfig.dev.json
+C:\Users\denia\source\repos\Tarea6\Tarea6\bin\Debug\netcoreapp3.1\Tarea6.dll
+C:\Users\denia\source\repos\Tarea6\Tarea6\bin\Debug\netcoreapp3.1\Tarea6.pdb
+C:\Users\denia\source\repos\Tarea6\Tarea6\obj\Debug\netcoreapp3.1\Tarea6.csproj.AssemblyReference.cache
+C:\Users\denia\source\repos\Tarea6\Tarea6\obj\Debug\netcoreapp3.1\Tarea6.Form1.resources
+C:\Users\denia\source\repos\Tarea6\Tarea6\obj\Debug\netcoreapp3.1\Tarea6.csproj.GenerateResource.cache
+C:\Users\denia\source\repos\Tarea6\Tarea6\obj\Debug\netcoreapp3.1\Tarea6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denia\source\repos\Tarea6\Tarea6\obj\Debug\netcoreapp3.1\Tarea6.AssemblyInfoInputs.cache
+C:\Users\denia\source\repos\Tarea6\Tarea6\obj\Debug\netcoreapp3.1\Tarea6.AssemblyInfo.cs
+C:\Users\denia\source\repos\Tarea6\Tarea6\obj\Debug\netcoreapp3.1\Tarea6.csproj.CoreCompileInputs.cache
+C:\Users\denia\source\repos\Tarea6\Tarea6\obj\Debug\netcoreapp3.1\Tarea6.dll
+C:\Users\denia\source\repos\Tarea6\Tarea6\obj\Debug\netcoreapp3.1\Tarea6.pdb
+C:\Users\denia\source\repos\Tarea6\Tarea6\obj\Debug\netcoreapp3.1\Tarea6.genruntimeconfig.cache
